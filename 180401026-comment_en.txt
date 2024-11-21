@@ -1,0 +1,6 @@
+The smaller the deltax (width of the rectangles), the closer the computed value is to the actual value.
+This is because we find the integral by dividing the polynomial into small rectangles and summing their areas.
+So, the smaller deltax is, the more accurate the value becomes, though it takes longer to compute.
+However, the difference between the two integrals is not primarily due to deltax,
+but because the first integral approximates the polynomial to a certain correlation coefficient.
+Thus, even with the same deltax values, the results differ.

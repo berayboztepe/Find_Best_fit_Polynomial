@@ -1,0 +1,366 @@
+*******************FOR ALL DATA*******************
+
+
+		1 Degree Polynomial
+1. Coefficient = -21420.80370370371
+2. Coefficient = 2533.844354110208
+Correlation = 0.9821553764360962
+		2 Degree Polynomial
+1. Coefficient = -29665.420675105568
+2. Coefficient = 3129.840761681424
+3. Coefficient = -7.26824887281969
+Correlation = 0.9839200884766942
+		3 Degree Polynomial
+1. Coefficient = -2398.9426112232964
+2. Coefficient = -742.0960362737876
+3. Coefficient = 110.05738823510517
+4. Coefficient = -0.95386696835711
+Correlation = 0.9966285483898227
+		4 Degree Polynomial
+1. Coefficient = 11909.72951410056
+2. Coefficient = -4049.687738289538
+3. Coefficient = 288.98483794784437
+4. Coefficient = -4.334134420596653
+5. Coefficient = 0.020611386903900783
+Correlation = 0.9990756396793251
+		5 Degree Polynomial
+1. Coefficient = 6034.254514769798
+2. Coefficient = -2070.3503903441074
+3. Coefficient = 124.14170644685404
+4. Coefficient = 0.9764271998107888
+5. Coefficient = -0.05201739771967109
+6. Coefficient = 0.000354286754261091
+Correlation = 0.9993735636806654
+		6 Degree Polynomial
+1. Coefficient = -3026.920455738219
+2. Coefficient = 2061.4431606506855
+3. Coefficient = -361.31142419909037
+4. Coefficient = 24.284458825335182
+5. Coefficient = -0.5812334532871747
+6. Coefficient = 0.0060190757028260825
+7. Coefficient = -2.302759734971516e-05
+Correlation = 0.999890221389617
+
+	***Best Polynomial and Correlation Value for All Data = (6, 0.999890221389617)***
+
+
+*******************For Data From 1 to 10*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998716074545214)***
+
+
+*******************For Data From 2 to 11*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9996762148793534)***
+
+
+*******************For Data From 3 to 12*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998567439429104)***
+
+
+*******************For Data From 4 to 13*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998544703659622)***
+
+
+*******************For Data From 5 to 14*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999935042292228)***
+
+
+*******************For Data From 6 to 15*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999515370948926)***
+
+
+*******************For Data From 7 to 16*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999593465428026)***
+
+
+*******************For Data From 8 to 17*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999505611192271)***
+
+
+*******************For Data From 9 to 18*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9996149063207069)***
+
+
+*******************For Data From 10 to 19*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998022297777412)***
+
+
+*******************For Data From 11 to 20*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998542624442983)***
+
+
+*******************For Data From 12 to 21*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998503368455046)***
+
+
+*******************For Data From 13 to 22*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9996688667269468)***
+
+
+*******************For Data From 14 to 23*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998293444762446)***
+
+
+*******************For Data From 15 to 24*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998499443398422)***
+
+
+*******************For Data From 16 to 25*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998716706760242)***
+
+
+*******************For Data From 17 to 26*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998892004922102)***
+
+
+*******************For Data From 18 to 27*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999627855410681)***
+
+
+*******************For Data From 19 to 28*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999977272338853)***
+
+
+*******************For Data From 20 to 29*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999804015981371)***
+
+
+*******************For Data From 21 to 30*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999675864682119)***
+
+
+*******************For Data From 22 to 31*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999973449667458)***
+
+
+*******************For Data From 23 to 32*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999980106720081)***
+
+
+*******************For Data From 24 to 33*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999722677661029)***
+
+
+*******************For Data From 25 to 34*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999947799041117)***
+
+
+*******************For Data From 26 to 35*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999778349480474)***
+
+
+*******************For Data From 27 to 36*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999976160996327)***
+
+
+*******************For Data From 28 to 37*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999966794180608)***
+
+
+*******************For Data From 29 to 38*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999922471806925)***
+
+
+*******************For Data From 30 to 39*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999997069093967)***
+
+
+*******************For Data From 31 to 40*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999833569100609)***
+
+
+*******************For Data From 32 to 41*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999881472863389)***
+
+
+*******************For Data From 33 to 42*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999795858301088)***
+
+
+*******************For Data From 34 to 43*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999708014942967)***
+
+
+*******************For Data From 35 to 44*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999212305832449)***
+
+
+*******************For Data From 36 to 45*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999391814544277)***
+
+
+*******************For Data From 37 to 46*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999139551142272)***
+
+
+*******************For Data From 38 to 47*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999444558911037)***
+
+
+*******************For Data From 39 to 48*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999326819690528)***
+
+
+*******************For Data From 40 to 49*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999995835672659)***
+
+
+*******************For Data From 41 to 50*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999999640008903)***
+
+
+*******************For Data From 42 to 51*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999697818619222)***
+
+
+*******************For Data From 43 to 52*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999888708428809)***
+
+
+*******************For Data From 44 to 53*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999530444160601)***
+
+
+*******************For Data From 45 to 54*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999799630146495)***
+
+
+*******************For Data From 46 to 55*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999686755502256)***
+
+
+*******************For Data From 47 to 56*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999912785667157)***
+
+
+*******************For Data From 48 to 57*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999931737287833)***
+
+
+*******************For Data From 49 to 58*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999603859887243)***
+
+
+*******************For Data From 50 to 59*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999802548222778)***
+
+
+*******************For Data From 51 to 60*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999728527495473)***
+
+
+*******************For Data From 52 to 61*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999809651801611)***
+
+
+*******************For Data From 53 to 62*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999299977969702)***
+
+
+*******************For Data From 54 to 63*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999051879565838)***
+
+
+*******************For Data From 55 to 64*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999921213360764)***
+
+
+*******************For Data From 56 to 65*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999900297089636)***
+
+
+*******************For Data From 57 to 66*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999897902299561)***
+
+
+*******************For Data From 58 to 67*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9998874126742395)***
+
+
+*******************For Data From 59 to 68*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999188323019902)***
+
+
+*******************For Data From 60 to 69*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999885814530538)***
+
+
+*******************For Data From 61 to 70*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999964377638085)***
+
+
+*******************For Data From 62 to 71*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999984839714409)***
+
+
+*******************For Data From 63 to 72*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999991910295316)***
+
+
+*******************For Data From 64 to 73*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999999124875058)***
+
+
+*******************For Data From 65 to 74*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999861720398351)***
+
+
+*******************For Data From 66 to 75*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999848527232087)***
+
+
+*******************For Data From 67 to 76*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999737698442989)***
+
+
+*******************For Data From 68 to 77*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999973608348246)***
+
+
+*******************For Data From 69 to 78*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999707128385266)***
+
+
+*******************For Data From 70 to 79*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999988468966858)***
+
+
+*******************For Data From 71 to 80*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999946767948981)***
+
+
+*******************For Data From 72 to 81*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.999998849223265)***
+
+
+*******************For Data From 0 to 9*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999992295068256)***
+
+
+*******************For Data From 10 to 19*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9997755796537687)***
+
+
+*******************For Data From 20 to 29*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999826934369129)***
+
+
+*******************For Data From 30 to 39*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999958861730968)***
+
+
+*******************For Data From 40 to 49*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999995816027487)***
+
+
+*******************For Data From 50 to 59*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999725317070969)***
+
+
+*******************For Data From 60 to 69*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999970717882695)***
+
+
+*******************For Data From 70 to 79*******************
+	***Best Polynomial and Correlation Value for This Range = (6, 0.9999995385795482)***
+
+
